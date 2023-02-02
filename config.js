@@ -12,7 +12,7 @@ import { TbMessage2Code } from "react-icons/tb";
 
 const config = {
 
-  name: "SgMusic",
+  name: "SGMUSIC",
 
   //BotName
 
